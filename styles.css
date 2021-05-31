@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+h1, h2, head, nav, li{
+  color: White;
+  text-align: center;
+  align-items: center;
+  font-family: 'Lato', sans-serif;
+}
+body{
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 20;
+  color: white;
+  background-color: #A52A2A
+}
+img{
+  width: 40%;
+  height: auto;
+  border: 3;
+  align-items: center;
+}
+a[href] {
+  color: #00FFFF;
+}
+footer{
+  color: white;
+  text-align: center;
+}
